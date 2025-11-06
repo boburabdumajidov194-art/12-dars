@@ -1,0 +1,38 @@
+.box{
+    background-color: rgb(2, 121, 117);
+    width: 1000px;
+    height: 1000px;
+    padding-left: 350px;
+}
+h1{
+    background-color: rgb(77, 0, 0);
+    width: 450px;
+    height: 70px;
+    color: white;
+    padding-left: 20px;
+    font-size: 50px;
+    margin-left: 180px;
+    
+}
+.box2{
+    background-color: black;
+    width: 800px;
+    height: 500px;
+border: solid red 8px;
+}
+.box3{
+    background-color: aqua;
+    width: 700px;
+    height: 200px;
+    margin-left: 50px;
+}
+.box1{
+     background-color: aqua;
+    width: 700px;
+    height: 200px;
+    margin-left: 50px;
+}
+h3{
+    padding-left: 25px;
+    font-size: 20px;
+}
